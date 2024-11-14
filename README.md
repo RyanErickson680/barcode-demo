@@ -9,4 +9,4 @@ use `npm run dev -- --host` to host on your network and access from your mobile 
 or `npm run dev` to host locally like normal
 
 Example of website
-![Screenshot of site on iPhone](public\IMG_8304.jpg?raw=true)
+![Screenshot of site on iPhone](public/IMG_8304.jpg)
